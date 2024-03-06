@@ -32,10 +32,10 @@ The transition probabilities for each action are as follows:
 The agent receives a reward of +1 for reaching the goal state and a reward of 0 for all other states.
 
 ## GRAPHICAL REPRESENTATION
-![output](Graph.png)
+![Graph](https://github.com/Pravinrajj/rl-policy-evaluation/assets/117917674/81942bf3-5a4d-455c-be48-b7aa74de98b3)
 
 ## FORMULA
-![output](form.png)
+![form](https://github.com/Pravinrajj/rl-policy-evaluation/assets/117917674/5e063a00-1ed5-4f4a-ab35-d9e9a13e1cc8)
 
 ## POLICY EVALUATION FUNCTION
 ~~~python
